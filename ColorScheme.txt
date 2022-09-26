@@ -1,0 +1,19 @@
+line 3238 - background colors
+line 3768 - sidebar background colors (class inner)
+line 200 - major background colors
+line 3527 - sidebar background
+line 3860 - background on sidebar scroll bars
+line 3764 - other background for sidebar scroll bars
+line 3373 - header background color
+
+#002269
+#00458f
+#046ead
+#36afd1
+#a2b8cf
+#b0d0e0
+#4c6474
+#74849c
+
+
+#031830
